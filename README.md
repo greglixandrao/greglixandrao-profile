@@ -1,4 +1,4 @@
-# Simple project to leran Git and Github
+# Simple project to learn Git and Github
 
 > This is a simple project to learn git and github in real life.
 
